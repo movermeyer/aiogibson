@@ -7,13 +7,13 @@ aiogibson
 .. image:: https://coveralls.io/repos/jettify/aiogibson/badge.png?branch=master
     :target: https://coveralls.io/r/jettify/aiogibson?branch=master
     :alt: |Coverage|
-.. image:: https://pypip.in/v/aiogibson/badge.svg
+.. image:: https://img.shields.io/pypi/v/aiogibson.svg
     :target: https://pypi.python.org/pypi/aiogibson/
     :alt: |Latest PyPI version|
-.. image:: https://pypip.in/d/aiogibson/badge.svg
+.. image:: https://img.shields.io/pypi/dm/aiogibson.svg
     :target: https://pypi.python.org/pypi/aiogibson/
     :alt: |Number of PyPI downloads|
-.. image:: https://pypip.in/license/aiogibson/badge.svg
+.. image:: https://img.shields.io/pypi/l/aiogibson.svg
     :target: https://pypi.python.org/pypi/aiogibson/
     :alt: |License|
 
